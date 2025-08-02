@@ -93,10 +93,3 @@ This project was built as a learning exercise to understand the basics of React,
 * 💻 GitHub: https://github.com/udishaverma
 
 ---
-
-```
-
----
-
-Let me know if you'd like the links or email filled in directly, or if you want the file saved as a downloadable `.md` file.
-```
